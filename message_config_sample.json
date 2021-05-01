@@ -1,0 +1,6 @@
+{
+    "TO":"Destination Name",
+    "FROM":"Sender Name",
+    "MESSAGE_API_IP":"Message API Server Address",
+    "LINE_TOKEN":"LINE Notify Token"
+}
