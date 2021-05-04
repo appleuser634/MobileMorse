@@ -1,15 +1,15 @@
-# MorBus
+# Mobile Morse
 
-MorBus is Mobile Morse Communication Device.
+This is Mobile Morse Communication Device.
 
-You can build own MorBus use a RaspberryPi!
+You can build own device use a RaspberryPi!
 
 [Demo Video](https://twitter.com/i/status/1366030604186177539)
 
 
 ![キャプションを入力できます](https://pbs.twimg.com/media/EzvQRBQVUAohe6o?format=jpg&name=large)
 
-Build MorBus
+Build Mobile Morse
 ===========================
 
 ### Parts List:
@@ -32,7 +32,7 @@ Wiring Parts Like This ->
 Designed with Fusion 360 ->
 ![キャプションを入力できます](https://camo.elchika.com/db4497b55ba8a92a53d2a2fa9d9f3d3c041cd8c4/687474703a2f2f73746f726167652e676f6f676c65617069732e636f6d2f656c6368696b612f76312f757365722f33646565346130662d373536372d346638312d396130352d3639353132316531346433652f33396238373531662d363333632d346638302d623566322d383431343634333735613365/)
 
-Setup MorBus
+Setup Mobile Morse
 ===========================
 
 ```bash
